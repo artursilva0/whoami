@@ -1,5 +1,6 @@
 |   WhoAmI | name                    | authors             | copyright           | repositoryUrl                                                         | projectUrl                                                            |
 |---------:|:------------------------|:--------------------|:--------------------|:----------------------------------------------------------------------|:----------------------------------------------------------------------|
+|      123 | Hobgoblin               | harp-tech           | harp-tech           | https://github.com/harp-tech/device.hobgoblin                         | https://github.com/harp-tech/device.hobgoblin                         |
 |      256 | USBHub                  |                     |                     |                                                                       |                                                                       |
 |     1024 | Poke                    |                     |                     |                                                                       |                                                                       |
 |     1040 | MultiPwmGenerator       | harp-tech           | harp-tech           | https://github.com/harp-tech/device.multipwm                          | https://github.com/harp-tech/device.multipwm                          |
